@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Canon EOS Web Service Email Extractor", "Canon EOS Web Service Email Extractor\Canon EOS Web Service Email Extractor.xproj", "{40E4222D-6EB3-40CD-9EF0-225FFE3982CC}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Canon EOS Web Service Email Extractor", "Canon EOS Web Service Email Extractor.xproj", "{40E4222D-6EB3-40CD-9EF0-225FFE3982CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
