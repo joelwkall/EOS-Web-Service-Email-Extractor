@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Canon EOS Web Service Email Extractor", "Canon EOS Web Service Email Extractor.xproj", "{40E4222D-6EB3-40CD-9EF0-225FFE3982CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "Runner\Runner.csproj", "{230DAB6F-0832-4AB2-9F38-ACC5F6A33E44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{40E4222D-6EB3-40CD-9EF0-225FFE3982CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{40E4222D-6EB3-40CD-9EF0-225FFE3982CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{40E4222D-6EB3-40CD-9EF0-225FFE3982CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{40E4222D-6EB3-40CD-9EF0-225FFE3982CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230DAB6F-0832-4AB2-9F38-ACC5F6A33E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230DAB6F-0832-4AB2-9F38-ACC5F6A33E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230DAB6F-0832-4AB2-9F38-ACC5F6A33E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230DAB6F-0832-4AB2-9F38-ACC5F6A33E44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

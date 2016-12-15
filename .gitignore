@@ -4,3 +4,10 @@
 
 /.vs/Canon EOS Web Service Email Extractor/v14
 *.user
+/.vs
+/bin/Debug/netcoreapp1.0
+/obj/Debug/netcoreapp1.0
+/packages/AE.Net.Mail.1.7.10.0
+/Runner/bin/Debug
+/Runner/obj/Debug
+/Runner/App.config
